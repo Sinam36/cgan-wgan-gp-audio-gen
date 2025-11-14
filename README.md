@@ -88,8 +88,8 @@ References:
 
 Used separate learning rates for Generator and Discriminator:
 
-* **LR_G = 5e‑5**
-* **LR_D = 1.5e‑5** (slower)
+* **LR_G = 1e-4**
+* **LR_D = 2e-5** (slower)
 
 Research papers:
 
