@@ -227,6 +227,6 @@ During training, the system automatically saves:
 
 ---
 
-#  Final Notes
+## Final Notes
 
 This model is currently being trained only till 210 epochs due to limited time . Although audio quality may still improve with more training or further tuning, the architecture provides a strong baseline for future experimentation.
