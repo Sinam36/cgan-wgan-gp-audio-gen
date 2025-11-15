@@ -188,6 +188,13 @@ During training, the system automatically saves:
 
 ---
 
+The model has been trained for 220 epochs currently. Still the model has started showing some good results as 3 out of 5 classes has started producing sounds similar to original ones.
+The remaining 2 classes (street_music, siren ) may also give good results if trained for longer period along with finetuning of hyperparameters .
+
+
+---------------------------------
+
+
 #  References List
 
 (resources used in model design)
